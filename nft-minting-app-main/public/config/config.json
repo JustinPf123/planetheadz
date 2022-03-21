@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x13fdf09c89caf6c91496110ef048426251219112",
+  "SCAN_LINK": "https://polygonscan.com/tx/0xc64c1e01327de2282d8c61e92257e30bbc6c96140549c95b4d88175467b32f08",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "PlanetHeadz",
+  "SYMBOL": "PHZNFT",
+  "MAX_SUPPLY": 2121,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/planetheadz",
+  "SHOW_BACKGROUND": true
+}
